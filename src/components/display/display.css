@@ -1,0 +1,10 @@
+.display {
+    background: rgb(56, 56, 56);
+    width: 90%;
+    height: 100px;
+    margin: 0 auto;
+    border-radius: 2px;
+    color: azure;
+    text-align: right;
+    padding-right: 10px;
+}
